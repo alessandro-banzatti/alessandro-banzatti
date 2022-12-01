@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Alessandro 👋
 
 <!--
 **alessandro-banzatti/alessandro-banzatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandro-banzatti)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-banzatti)](https://github.com/alessandro-banzatti/github-readme-stats)
